@@ -39,8 +39,7 @@ Frontend (HTML/JS in S3) → API Gateway → Lambda → DynamoDB
 3. Lambda performs the calculation and stores the result in DynamoDB.
 4. The output is displayed on the frontend in real time.
 
-
-###Key Features
+### Key Features
 • 100% Serverless Architecture
 • Real-time API Interaction
 • Scalable and Cost-efficient Design
