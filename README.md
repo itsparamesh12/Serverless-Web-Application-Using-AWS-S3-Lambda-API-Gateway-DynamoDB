@@ -1,21 +1,14 @@
-# Serverless-Web-Application-Using-AWS-S3-Lambda-API-Gateway-DynamoDB
-Developed a real-time serverless web application using AWS S3, Lambda, API Gateway, and DynamoDB to perform dynamic mathematical calculations. Implemented a scalable, event-driven architecture demonstrating full integration of modern AWS cloud services.
-
----------------------------------------------------------
 # Serverless Web Application Using AWS S3, Lambda, API Gateway & DynamoDB
-
 ### About
 A real-time serverless web application built using AWS managed services to calculate powers of numbers dynamically.
 ### STEPS
 Steps: 
 <img width="1894" height="357" alt="image" src="https://github.com/user-attachments/assets/65520332-e5f6-4844-a2e5-8460aac29c81" />
-
 1.Create IAM role to connect Lambda & DynamoDB
 2.Configure lambda
 3.Configure API gateway
 4.Configure DynamoDB
 5.Configure S3
-
 
 ### Tech Stack
 - Frontend: HTML, CSS, JavaScript (hosted on Amazon S3)
@@ -25,13 +18,11 @@ Steps:
 - Database: Amazon DynamoDB (Data storage)
 - Security: AWS IAM (Access control)
 
-
 ### Architecture Overview
 Frontend (HTML/JS in S3) → API Gateway → Lambda → DynamoDB
 
 ### Screenshots
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4001b74a-94b2-4d22-bdac-8db5633fe944" />
-
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/09a3da3f-75d1-4fd5-ae15-2a3a5187a4fd" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/47604fb1-a3af-4020-ba26-05d343a0def9" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cd65542c-6f74-4357-abde-a380a218e5fd" />
