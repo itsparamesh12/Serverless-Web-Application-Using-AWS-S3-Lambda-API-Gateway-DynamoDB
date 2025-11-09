@@ -28,7 +28,7 @@ Steps:
 Frontend (HTML/JS in S3) → API Gateway → Lambda → DynamoDB
 
 ### Screenshots
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1f828357-1e9c-4348-9f42-6219acba3bf1" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4001b74a-94b2-4d22-bdac-8db5633fe944" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/09a3da3f-75d1-4fd5-ae15-2a3a5187a4fd" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/47604fb1-a3af-4020-ba26-05d343a0def9" />
